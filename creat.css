@@ -1,0 +1,32 @@
+h2 {
+    background: yellow;
+}
+.paragraph-1 {
+    background: pink;
+    font-size: 32pt;
+    color: blue;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 10px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+
+
+.text {
+    margin-bottom: 60px;
+    margin-left: 60px;
+    font-size: 24px;
+    text-shadow: 2px 4px 3px green;
+}
